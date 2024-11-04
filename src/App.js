@@ -10,7 +10,7 @@ function App() {
         <a
          
         >
-          Learning CI/CD on AWS for
+          Learning CI/CD on AWS for stupid devops cia
         </a>
       </header>
     </div>
