@@ -10,7 +10,7 @@ function App() {
         <a
          
         >
-          Learning CI/CD on AWS for Devops CIA
+          Learning CI/CD on AWS for Devops CIA 2
         </a>
       </header>
     </div>
